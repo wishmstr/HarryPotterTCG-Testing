@@ -1,0 +1,9 @@
+<version>
+
+<lastupdateYYMMDD>211108</lastupdateYYMMDD>
+<quality>MEDIUM</quality>
+<versionurl>https://raw.githubusercontent.com/HPTCGRevival/hptcg-revival/main/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/HPTCGRevival/hptcg-revival/main/updatelist.txt</updateurl>
+<message>Added Streets of Hogsmeade and Echoes of the Past.</message>
+
+</version>
