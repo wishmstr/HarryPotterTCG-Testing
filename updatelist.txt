@@ -1,16 +1,16 @@
 harrypottertcg	04-06-23
-plugins/harrypottertcg/bot.jpg	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/harrypottertcg/bot.jpg	9286
-plugins/harrypottertcg/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/harrypottertcg/plugininfo.txt	373763
-plugins/harrypottertcg/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/harrypottertcg/carddata.txt	3414728
-plugins/harrypottertcg/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/harrypottertcg/cardback.jpg	701877
-plugins/harrypottertcg/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/harrypottertcg/spawned.jpg	686412
-plugins/harrypottertcg/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/harrypottertcg/CardImageURLs1.txt	2343395
-plugins/harrypottertcg/packs/packdefinitions1.xml	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/harrypottertcg/packdefinitions1.xml	368131
-plugins/harrypottertcg/packs/boosterchamber.jpg	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/harrypottertcg/boosterchamber.jpg	-20265
-plugins/harrypottertcg/packs/boosteradventures.jpg	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/harrypottertcg/boosteradventures.jpg	9897
-plugins/harrypottertcg/packs/boosterbaseset.jpg	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/harrypottertcg/boosterbaseset.jpg	-8196
-plugins/harrypottertcg/packs/boosterdiagon.jpg	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/harrypottertcg/boosterdiagon.jpg	7698
-plugins/harrypottertcg/packs/boosterquidditch.jpg	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/harrypottertcg/boosterquidditch.jpg	-5923
-plugins/harrypottertcg/version.txt	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/harrypottertcg/version.txt	34226
+plugins/bot.jpg	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/bot.jpg	9286
+plugins/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/plugininfo.txt	373763
+plugins/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/carddata.txt	3414728
+plugins/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/cardback.jpg	701877
+plugins/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/spawned.jpg	686412
+plugins/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/CardImageURLs1.txt	2343395
+plugins/packs/packdefinitions1.xml	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/packdefinitions1.xml	368131
+plugins/packs/boosterchamber.jpg	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/boosterchamber.jpg	-20265
+plugins/packs/boosteradventures.jpg	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/boosteradventures.jpg	9897
+plugins/packs/boosterbaseset.jpg	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/boosterbaseset.jpg	-8196
+plugins/packs/boosterdiagon.jpg	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/boosterdiagon.jpg	7698
+plugins/packs/boosterquidditch.jpg	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/boosterquidditch.jpg	-5923
+plugins/version.txt	https://raw.githubusercontent.com/wishmstr/HarryPotterTCG-Testing/main/version.txt	34226
 CardURLFiles:
 CardImageURLs1.txt
